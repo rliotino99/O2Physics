@@ -24,7 +24,7 @@ inline constexpr int kDimPhotonsCharge = 10;
 
 namespace variables_table
 {
-    
+
 DECLARE_SOA_COLUMN(ChAngle, chAngle, float);
 DECLARE_SOA_COLUMN(MomentumHmpid, momentumHmpid, float);
 DECLARE_SOA_COLUMN(MomentumTrack, momentumTrack, float);
